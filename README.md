@@ -1,6 +1,6 @@
 # Hello, Folks! I'm Cesar A. Nogueira ✌️✌️✌️
 
-![background](https://avatars2.githubusercontent.com/u/754924?s=400&u=759d672ead90806b733ea148a27725052dec75ed&v=4)
+[center]<img align="center" src="https://avatars2.githubusercontent.com/u/754924?s=400&u=759d672ead90806b733ea148a27725052dec75ed&v=4" />[/center]
 
 💻 Technical Architecture Manager (Current) [Accenture](https://www.accenture.com/us-en) 
 
