@@ -1,8 +1,16 @@
 # Hello, Folks! I'm Cesar A. Nogueira ✌️✌️✌️
 
-💻 Technical Architecture Manager [Accenture](https://www.accenture.com/us-en) 
+![background](https://avatars2.githubusercontent.com/u/754924?s=400&u=759d672ead90806b733ea148a27725052dec75ed&v=4)
 
-💻 EX Cloud Architect [everis](https://everis.com/)
+💻 Technical Architecture Manager (Current) [Accenture](https://www.accenture.com/us-en) 
+
+💻 Cloud Architect (2019 - 2020) [everis](https://everis.com/)
+
+💻 Full Stack Developer (2018 - 2019) [CI&T](https://ciandt.com/)
+
+💻 Software Engineering Inter (2013) [IBM Lenexa, Kansas](https://ibm.com/)
+
+💻 Java Developer (2011 - 2013) [CPqD](https://cpqd.com/)
 
 🚀 Focused IT Professional with more than 10+ years of experience and a Digital Nomad Enthusiast
 
@@ -22,9 +30,12 @@ I'm a believer that every person, regardless the level of knowledge, has somethi
 
 # ⚙️ Technologies and Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=gcp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Azure&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
@@ -43,9 +54,6 @@ I'm a believer that every person, regardless the level of knowledge, has somethi
 ![](https://img.shields.io/badge/Code-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Chef-informational?style=flat&logo=chef&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Consul-informational?style=flat&logo=consul&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=gcp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Azure&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Crypto-Blockchain-informational?style=flat&logo=blockchain&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Crypto-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Crypto-ERC20-informational?style=flat&logo=ethereum&logoColor=white&color=2bbc8a)
