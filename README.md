@@ -1,4 +1,4 @@
-# Hello, Folks! I'm Cesar A. Nogueira ✌️✌️✌️
+# Hello, folks! I'm Cesar A. Nogueira <img src="https://raw.githubusercontent.com/CesarNog/CesarNog/master/wave.gif" width="30px">
 
 💻 Technical Architecture Manager (Current) [Accenture](https://www.accenture.com/us-en) 
 
@@ -69,6 +69,15 @@ career, creating this network of helping and being helped by others, will create
 
 Working in a team, even that I know how to do my job, I try to talk with each other of the team, to check
 if they really understand what the current project/task is about, and if I can help in some point.
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/CesarNog/CesarNog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarNog&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/CesarNog/CesarNog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CesarNog&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
 ## Repositories
 
