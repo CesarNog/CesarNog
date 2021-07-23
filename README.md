@@ -1,6 +1,6 @@
 # Hello, folks! I'm Cesar A. Nogueira <img src="https://raw.githubusercontent.com/CesarNog/CesarNog/master/wave.gif" width="30px">
 
-💻 Technical Architecture Manager (Current) [Accenture](https://www.accenture.com/us-en) 
+💻 Technical Architecture Manager (Current) [Accenture Interactive Brazil](https://www.accenture.com/br-pt/about/accenture-interactive-index) 
 
 💻 Cloud Architect (2019 - 2020) [everis](https://everis.com/)
 
