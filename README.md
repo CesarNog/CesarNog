@@ -18,7 +18,7 @@
 
 ## 😀 About me 💻
 
-Hello Everyone, I'm Cesar A. Nogueira, I'm a geek Brazilian whom currently live at São Paulo and working as a Technical Architecture Manager. 
+I'm a geek Brazilian whom currently live at São Paulo and is working as a Technical Architecture Manager. 
 
 Mainly of my professionals experiences are focused in Software Development, Cloud Infrastructure and leading tech teams. 
 
