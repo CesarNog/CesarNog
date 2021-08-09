@@ -1,8 +1,8 @@
 # Hello, folks! I'm Cesar A. Nogueira <img src="https://raw.githubusercontent.com/CesarNog/CesarNog/master/wave.gif" width="30px">
 
-💻 Senior DevOps Engineer (Current) [ZeroLight LLC, a Cloud visualization company from Newcastle, UK](https://www.zerolight.com) 
+💻 Senior DevOps Engineer (2021 - Current) [ZeroLight LLC, a Cloud visualization company from Newcastle, UK](https://www.zerolight.com) 
 
-💻 Technical Architecture Manager (2020 - 2021) [Accenture Interactive Brazil](https://www.accenture.com/br-pt/about/accenture-interactive-index) 
+💻 Technical Architecture Manager (2020 - July 2021) [Accenture Interactive Brazil](https://www.accenture.com/br-pt/about/accenture-interactive-index) 
 
 💻 Cloud Architect (2019 - 2020) [everis](https://everis.com/)
 
