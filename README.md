@@ -20,9 +20,9 @@
 
 ## 😀 About me 💻
 
-I'm a geek Brazilian whom currently live at São Paulo and is working as a Technical Architecture Manager. 
+I'm a geek Brazilian whom currently live at São Paulo and working as a Senior DevOps Engineer. 
 
-Mainly of my professionals experiences are focused in Software Development, Cloud Infrastructure and leading tech teams. 
+Mainly of my professionals experiences are focused in Software Development, DevOps, Cloud Infrastructure and leading tech teams. 
 
 In Brazil I was one of the founders of SouJava Campinas JUG, a Java User Group aimed to share technical Java tricks at the local community.
 
