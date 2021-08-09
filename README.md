@@ -20,7 +20,7 @@
 
 ## 😀 About me 💻
 
-I'm a geek Brazilian whom currently live at São Paulo and working as a Senior DevOps Engineer. 
+I'm an international geek IT professional that currently live at São Paulo and working as a Senior DevOps Engineer. 
 
 Mainly of my professionals experiences are focused in Software Development, DevOps, Cloud Infrastructure and leading tech teams. 
 
@@ -66,7 +66,7 @@ I'm a believer that every person, regardless the level of knowledge, has somethi
 
 Not only of technical attributes are made a professional, but the ability to communicate, teamwork and strategic planning are the key to achieving goals accurately. 
 
-I bbelieve that having contact with people it's a primordial step for thrive in your
+I believe that having contact with people it's a primordial step for thrive in your
 career, creating this network of helping and being helped by others, will create a clear path for you.
 
 Working in a team, even that I know how to do my job, I try to talk with each other of the team, to check
