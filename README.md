@@ -1,4 +1,4 @@
-# Hello, folks! I'm Cesar A. Nogueira <img src="https://raw.githubusercontent.com/CesarNog/CesarNog/blob/output/wave.gif" width="30px">
+# Hello, folks! I'm Cesar A. Nogueira <img src=https://raw.githubusercontent.com/CesarNog/CesarNog/main/blob/output/wave.gif" width="30px">
 
   <a href="https://cesarnogueira.tech" target="_blank"><img src="https://img.shields.io/badge/-Website-%23E44041F?style=for-the-badge&logo=site&logoColor=black" target="_blank"></a>
  <a href="https://www.linkedin.com/in/cesarnog" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -94,7 +94,7 @@ Most of my repositories are public, and meant to be opensource applications, the
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarnog&theme=dark" />
 
 ## Follow the snake!
-![Snake animation](https://github.com/CesarNog/CesarNog/blob/output/github-contribution-grid-snake-cesarnog.svg)
+![Snake animation](https://raw.githubusercontent.com/CesarNog/CesarNog/main/blob/output/github-contribution-grid-snake-cesarnog.svg)
 
 <!--
 **CesarNog/CesarNog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
