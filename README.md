@@ -5,6 +5,11 @@
   <a href = "mailto:cesarnogueira1210@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCnPa0cXcYnUaQLbygfPXbaA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/cesarnogcps" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+🚀 Focused IT Professional with more than 10+ years of experience and a Digital Nomad Enthusiast
+
+
+## Work Experience 💻
  
 💻 Senior DevOps Engineer (2021 - Current) [ZeroLight LLC, a Cloud visualization company from Newcastle, UK](https://www.zerolight.com) 
 
@@ -18,10 +23,8 @@
 
 💻 Java Developer (2011 - 2013) [CPqD](https://cpqd.com/)
 
-🚀 Focused IT Professional with more than 10+ years of experience and a Digital Nomad Enthusiast
 
-
-## 😀 About me 💻
+## 😀 A little more about me 💻
 
 I'm an international geek IT professional that currently live at São Paulo and working as a Senior DevOps Engineer. 
 
