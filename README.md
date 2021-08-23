@@ -1,5 +1,13 @@
 # Hello, folks! I'm Cesar A. Nogueira <img src="https://raw.githubusercontent.com/CesarNog/CesarNog/master/wave.gif" width="30px">
 
+ <a href="https://www.linkedin.com/in/cesarnog" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:cesarnogueira1210@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCnPa0cXcYnUaQLbygfPXbaA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/cesarnogcps" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+ 
+ 
+
 💻 Senior DevOps Engineer (2021 - Current) [ZeroLight LLC, a Cloud visualization company from Newcastle, UK](https://www.zerolight.com) 
 
 💻 Technical Architecture Manager (2020 - July 2021) [Accenture Interactive Brazil](https://www.accenture.com/br-pt/about/accenture-interactive-index) 
@@ -89,6 +97,9 @@ Most of my repositories are public, and meant to be opensource applications, the
 - Infrastructure as Code/Configuration Management
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarnog&theme=dark" />
+
+## Follow the snake!
+![Snake animation](https://github.com/CesarNog/CesarNog/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **CesarNog/CesarNog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
