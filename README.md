@@ -1,9 +1,11 @@
 # Hello, folks! I'm Cesar A. Nogueira <img src="https://raw.githubusercontent.com/CesarNog/CesarNog/master/wave.gif" width="30px">
 
+  <a href="https://cesarnogueira.tech" target="_blank"><img src="https://img.shields.io/badge/-Website-%23E44041F?style=for-the-badge&logo=site&logoColor=black" target="_blank"></a>
  <a href="https://www.linkedin.com/in/cesarnog" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:cesarnogueira1210@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCnPa0cXcYnUaQLbygfPXbaA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/cesarnogcps" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
  
  
  
