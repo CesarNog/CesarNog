@@ -1,4 +1,4 @@
-# Hello, folks! I'm Cesar A. Nogueira <img src=https://raw.githubusercontent.com/CesarNog/CesarNog/main/blob/output/wave.gif" width="30px">
+# Hello, folks! I'm Cesar A. Nogueira <img src="https://github.com/CesarNog/CesarNog/blob/main/blob/output/wave.gif?raw=true" width="30px">
 
   <a href="https://cesarnogueira.tech" target="_blank"><img src="https://img.shields.io/badge/-Website-%23E44041F?style=for-the-badge&logo=site&logoColor=black" target="_blank"></a>
  <a href="https://www.linkedin.com/in/cesarnog" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
