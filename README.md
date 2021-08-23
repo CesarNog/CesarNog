@@ -94,7 +94,7 @@ Most of my repositories are public, and meant to be opensource applications, the
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarnog&theme=dark" />
 
 ## Follow the snake!
-![Snake animation](https://github.com/CesarNog/CesarNog/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/CesarNog/CesarNog/blob/output/github-contribution-grid-snake-cesarnog.svg)
 
 <!--
 **CesarNog/CesarNog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
