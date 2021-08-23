@@ -6,10 +6,6 @@
   <a href="https://www.youtube.com/channel/UCnPa0cXcYnUaQLbygfPXbaA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/cesarnogcps" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
- 
- 
- 
-
 💻 Senior DevOps Engineer (2021 - Current) [ZeroLight LLC, a Cloud visualization company from Newcastle, UK](https://www.zerolight.com) 
 
 💻 Technical Architecture Manager (2020 - July 2021) [Accenture Interactive Brazil](https://www.accenture.com/br-pt/about/accenture-interactive-index) 
@@ -24,9 +20,6 @@
 
 🚀 Focused IT Professional with more than 10+ years of experience and a Digital Nomad Enthusiast
 
-💬 [LinkedIn](https://www.linkedin.com/in/cesarnog/) 
-
-ℹ️ [Website/Portifolio](https://cesarnogueira.tech) 
 
 ## 😀 About me 💻
 
