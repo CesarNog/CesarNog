@@ -80,25 +80,12 @@ career, creating this network of helping and being helped by others, will create
 Working in a team, even that I know how to do my job, I try to talk with each other of the team, to check
 if they really understand what the current project/task is about, and if I can help in some point.
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/CesarNog/CesarNog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarNog&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/CesarNog/CesarNog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CesarNog&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="CesarNog's GitHub Stats" />
-</a>
-
-
 ## Repositories
 
 Most of my repositories are public, and meant to be opensource applications, they are mainly focused in the following areas:
 - Cloud Architecture and Devops
 - Backend
 - Infrastructure as Code/Configuration Management
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarnog&theme=dark" />
-</div>
 
 ## Catch the snake!
 ![Snake animation](https://raw.githubusercontent.com/CesarNog/CesarNog/main/blob/output/github-contribution-grid-snake-cesarnog.svg)
