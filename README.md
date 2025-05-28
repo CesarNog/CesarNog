@@ -28,9 +28,9 @@
 
 ## 😀 A little more about me 💻
 
-I'm an international geek IT professional that currently live at São Paulo and working as a Senior DevOps Engineer. 
+I'm an international geek IT professional that currently lives in Portugal and working as a Senior DevOps/Cloud/FinOps Engineer. 
 
-Mainly of my professionals experiences are focused in Software Development, DevOps, Cloud Infrastructure and leading tech teams. 
+Mainly of my professionals experiences are focused in Software Development, DevOps, Cloud Infrastructure, FinOps and leading tech teams. 
 
 In Brazil I was one of the founders of SouJava Campinas JUG, a Java User Group aimed to share technical Java tricks at the local community.
 
@@ -84,8 +84,9 @@ if they really understand what the current project/task is about, and if I can h
 
 Most of my repositories are public, and meant to be opensource applications, they are mainly focused in the following areas:
 - Cloud Architecture and Devops
-- Backend
+- FinOps
 - Infrastructure as Code/Configuration Management
+- Backend Software (Java, Python, Next.JS)
 
 ## Catch the snake!
 ![Snake animation](https://raw.githubusercontent.com/CesarNog/CesarNog/main/blob/output/github-contribution-grid-snake-cesarnog.svg)
