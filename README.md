@@ -6,35 +6,29 @@
   <a href="https://www.youtube.com/channel/UCnPa0cXcYnUaQLbygfPXbaA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/cesarnog.eu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-🚀 Focused IT Professional with more than 10+ years of experience and a Digital Nomad Enthusiast
+🚀 International Cloud & DevOps Engineer | FinOps Specialist
+10+ years of experience building scalable systems, automating everything, and helping companies reduce cloud costs.
 
 
 ## Work Experience 💻
 
-💻 Cloud/DevOps Contractor (2022 - Current) UP2Cloud Consulting, International
- 
-💻 Senior DevOps Engineer (2021 - 2022) [ZeroLight LLC, a Cloud visualization company from Newcastle, UK](https://www.zerolight.com) 
-
-💻 Technical Architecture Manager (2020 - July 2021) [Accenture Interactive Brazil](https://www.accenture.com/br-pt/about/accenture-interactive-index) 
-
-💻 Cloud Architect (2019 - 2020) [everis](https://everis.com/)
-
-💻 Full Stack Developer (2013 - 2019) [CI&T](https://ciandt.com/)
-
-💻 Software Engineering Intern (2013) [IBM Lenexa, Kansas](https://ibm.com/)
-
-💻 Java Developer (2011 - 2013) [CPqD](https://cpqd.com/)
+💼 Cloud/DevOps Contractor (2022 - Present) UP2Cloud Consulting, International
+💼 Senior DevOps Engineer (2021 - 2022) [ZeroLight LLC, a Cloud visualization company from Newcastle, UK](https://www.zerolight.com) 
+💼 Technical Architecture Manager (2020 - July 2021) [Accenture Interactive Brazil](https://www.accenture.com/br-pt/about/accenture-interactive-index) 
+💼 Cloud Architect (2019 - 2020) [everis](https://everis.com/)
+💼 Full Stack Developer (2013 - 2019) [CI&T](https://ciandt.com/)
+💼 Software Engineering Intern (2013) [IBM Lenexa, Kansas](https://ibm.com/)
+💼 Java Developer (2011 - 2013) [CPqD](https://cpqd.com/)
 
 
 ## 😀 A little more about me 💻
 
-I'm an international geek IT professional that currently lives in Portugal and working as a Senior DevOps/Cloud/FinOps Engineer. 
+I’m an international DevOps, Cloud & FinOps consultant currently based in Portugal.
+My career spans Software Engineering, Cloud Architecture, FinOps, DevOps, automation, and leading technical teams across multiple countries.
 
-Mainly of my professionals experiences are focused in Software Development, DevOps, Cloud Infrastructure, FinOps and leading tech teams. 
+I was a co-founder of SouJava Campinas JUG, one of the most active Java communities in Brazil.
 
-In Brazil I was one of the founders of SouJava Campinas JUG, a Java User Group aimed to share technical Java tricks at the local community.
-
-I'm a believer that every person, regardless the level of knowledge, has something to teach us, and that never stop learning is one of the most important core values in your life.
+I believe everyone has something to teach, and that continuous learning is the most important value in any professional journey.
 
 # ⚙️ Technologies and Tools
 
@@ -72,21 +66,19 @@ I'm a believer that every person, regardless the level of knowledge, has somethi
 
 ## Working with me 🤙
 
-Not only of technical attributes are made a professional, but the ability to communicate, teamwork and strategic planning are the key to achieving goals accurately. 
+Great professionals are not defined only by technical skills.
+Communication, teamwork, ownership, and strategic thinking are essential.
 
-I believe that having contact with people it's a primordial step for thrive in your
-career, creating this network of helping and being helped by others, will create a clear path for you.
-
-Working in a team, even that I know how to do my job, I try to talk with each other of the team, to check
-if they really understand what the current project/task is about, and if I can help in some point.
+I always make sure the team understands the goal, the architecture, and the reasoning behind decisions, promoting a collaborative and supportive work culture.
 
 ## Repositories
 
-Most of my repositories are public, and meant to be opensource applications, they are mainly focused in the following areas:
-- Cloud Architecture and Devops
-- FinOps
-- Infrastructure as Code/Configuration Management
-- Backend Software (Java, Python, Next.JS)
+Most of my public repositories are open-source and focused on:
+	•	Cloud Architecture & DevOps
+	•	FinOps / Cloud Cost Optimization
+	•	Infrastructure as Code
+	•	Python & Java automation
+	•	Backend development (Java, Python, Next.js)
 
 ## Catch the snake!
 ![Snake animation](https://raw.githubusercontent.com/CesarNog/CesarNog/main/blob/output/github-contribution-grid-snake-cesarnog.svg)
