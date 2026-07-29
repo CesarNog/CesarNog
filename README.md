@@ -32,7 +32,7 @@
 
 I grew up in Brazil, moved to Europe, and have spent 10+ years building cloud infrastructure for organizations that can't afford for it to fail — banks, airlines, media companies, and global enterprises.
 
-Today I run **[UP2CLOUD](https://github.com/UP2CLOUD)**, an independent B2B cloud consultancy. I embed with engineering teams across Europe and the Americas to architect, automate, and optimize multi-cloud platforms on GCP, AWS, and Azure — making delivery fast, spend visible, and operations boring in the best way.
+Today I run **[UP2CLOUD](https://up2cloud.tech)**, an independent B2B cloud consultancy. I embed with engineering teams across Europe and the Americas to architect, automate, and optimize multi-cloud platforms on GCP, AWS, and Azure — making delivery fast, spend visible, and operations boring in the best way.
 
 - 🌍 Based in **Vila Real, Portugal** · remote-first across time zones
 - 🏢 Founder of **[UP2CLOUD](https://github.com/UP2CLOUD)** · cloud architecture & FinOps consulting
